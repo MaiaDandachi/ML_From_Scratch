@@ -1,1 +1,1 @@
-# ML_From_Scratch
+# Machine Learning Algorithms written from scratch.
